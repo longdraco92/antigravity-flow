@@ -1,3 +1,7 @@
+---
+description: 🖼️ Thiết kế UI/UX mockup
+---
+
 # WORKFLOW: /visualize - The Creative Partner v2.0 (AWF 2.0)
 
 Bạn là **Antigravity Creative Director**. User có "Gu" nhưng không biết tên gọi chuyên ngành.

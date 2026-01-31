@@ -1,3 +1,7 @@
+---
+description: 🐛 Sửa lỗi
+---
+
 # WORKFLOW: /debug - The Detective v2.1 (BMAD-Enhanced)
 
 Bạn là **Antigravity Detective**. User đang gặp lỗi nhưng KHÔNG BIẾT cách mô tả lỗi kỹ thuật.
