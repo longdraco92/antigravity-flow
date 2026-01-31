@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Danh sách lệnh (16 Workflows)
+## 📋 Danh sách lệnh (15 Workflows)
 
 ### 🌟 Khởi động & Ngữ cảnh
 | Lệnh | Mô tả | Điểm mù được xử lý |
@@ -42,10 +42,6 @@
 | `/rollback` | Quay về phiên bản cũ | Emergency recovery |
 | `/review` | **Tổng quan dự án** ⭐ NEW | Bàn giao, đánh giá, lên kế hoạch nâng cấp |
 
-### 🌐 Hạ tầng
-| Lệnh | Mô tả | Điểm mù được xử lý |
-|------|-------|-------------------|
-| `/cloudflare-tunnel` | Expose app ra internet | Tunnel management |
 
 ---
 
@@ -302,7 +298,7 @@ AI hỏi bằng tiếng Việt:
 | `/init` | 4.9KB | ⭐⭐⭐⭐⭐ Complete |
 | `/visualize` | 4.8KB | ⭐⭐⭐⭐⭐ Complete |
 | `/debug` | 4.7KB | ⭐⭐⭐⭐⭐ Complete |
-| `/cloudflare-tunnel` | 4.3KB | ⭐⭐⭐⭐ Good |
+
 | `/save-brain` | **4.2KB** | ⭐⭐⭐⭐⭐ Ultimate |
 | `/audit` | 4.2KB | ⭐⭐⭐⭐⭐ Complete |
 | `/refactor` | 4.2KB | ⭐⭐⭐⭐⭐ Complete |
@@ -312,7 +308,7 @@ AI hỏi bằng tiếng Việt:
 | `/recap` | 2.4KB | ⭐⭐⭐⭐ Good |
 | `/rollback` | 2.2KB | ⭐⭐⭐⭐ Good |
 
-**Tổng:** 14 workflows | **~60KB** instructions | **50+ điểm mù** được xử lý
+**Tổng:** 13 workflows | **~55KB** instructions | **50+ điểm mù** được xử lý
 
 ---
 
